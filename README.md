@@ -29,7 +29,7 @@ Total : 24
 
 📚 Topics
 
-✅ Arrays
+⬜ Arrays
 
 ⬜ Strings
 
