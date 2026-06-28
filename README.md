@@ -1,77 +1,62 @@
-🧠 LeetCode Journey
-<img width="626" height="275" alt="Screenshot 2026-06-28 202144" src="https://github.com/user-attachments/assets/f5b92e8c-593e-4952-b5c2-2006a4f3d084" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f5b92e8c-593e-4952-b5c2-2006a4f3d084" width="100%" />
+</p>
 
-Building problem-solving skills one pattern at a time.
+<h1 align="center">LeetCode Journey</h1>
 
-
-📊 Progress
-
-Problems Solved
-
-Easy : 18
-
-Medium : 5
-
-Hard : 1
-
-Total : 24
+<p align="center">
+Building strong problem-solving skills through consistent practice, pattern recognition, and clean C++ implementations.
+</p>
 
 
-🎯 Goal
+🎯 Objectives
 
-✔ 600+ Problems
-
-✔ 1800+ Contest Rating
-
-✔ Master Every DSA Pattern
-
-✔ Crack Product-Based Companies
+- Master Data Structures & Algorithms
+- Strengthen problem-solving intuition
+- Build interview-ready coding skills
+- Maintain consistency through daily practice
 
 
-📚 Topics
 
-⬜ Arrays
+## 📚 DSA Roadmap
 
-⬜ Strings
-
-⬜ Sliding Window
-
-⬜ Binary Search
-
-⬜ Linked List
-
-⬜ Stack
-
-⬜ Queue
-
-⬜ Trees
-
-⬜ BST
-
-⬜ Heap
-
-⬜ Graph
-
-⬜ Dynamic Programming
-
-⬜ Greedy
-
-⬜ Trie
-
-⬜ Segment Tree
-
-⬜ Backtracking
-
-⬜ Bit Manipulation
-
-⬜ Math
+- [ ] Arrays
+- [ ] Strings
+- [ ] Two Pointers
+- [ ] Sliding Window
+- [ ] Prefix Sum
+- [ ] Binary Search
+- [ ] Linked List
+- [ ] Stack
+- [ ] Queue
+- [ ] Trees
+- [ ] Binary Search Trees
+- [ ] Heap / Priority Queue
+- [ ] Graphs
+- [ ] Backtracking
+- [ ] Greedy
+- [ ] Dynamic Programming
+- [ ] Trie
+- [ ] Bit Manipulation
+- [ ] Segment Tree
+- [ ] Math
 
 
-🏆 Languages
 
-C++
+## 💻 Language
+
+- C++
 
 
-🔥 Sync
 
-Automatically synced using LeetHub.
+## ⚙️ Workflow
+
+- Solve problems on LeetCode
+- Solutions automatically synced using **LeetHub**
+- Pattern-based learning alongside my DSA preparation
+
+
+
+<p align="center">
+  <i>One problem. One pattern. One step closer.</i>
+</p>
