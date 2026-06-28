@@ -1,2 +1,1 @@
-# Data-Structures-and-Algorithms-Leetcode-
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+Structured solutions to LeetCode problems with clean C++ implementations, pattern-based organization, and interview notes.
