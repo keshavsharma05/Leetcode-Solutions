@@ -1,4 +1,5 @@
 🧠 LeetCode Journey
+<img width="626" height="275" alt="Screenshot 2026-06-28 202144" src="https://github.com/user-attachments/assets/f5b92e8c-593e-4952-b5c2-2006a4f3d084" />
 
 Building problem-solving skills one pattern at a time.
 
