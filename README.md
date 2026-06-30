@@ -98,4 +98,12 @@ Building strong problem-solving skills through consistent practice, pattern reco
 | [0100-same-tree](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0111-minimum-depth-of-binary-tree) |
+## Array
+|  |
+| ------- |
+| [1920-build-array-from-permutation](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/1920-build-array-from-permutation) |
+## Simulation
+|  |
+| ------- |
+| [1920-build-array-from-permutation](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/1920-build-array-from-permutation) |
 <!---LeetCode Topics End-->
