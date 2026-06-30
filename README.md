@@ -72,6 +72,7 @@ Building strong problem-solving skills through consistent practice, pattern reco
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0144-binary-tree-preorder-traversal) |
@@ -79,6 +80,7 @@ Building strong problem-solving skills through consistent practice, pattern reco
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0144-binary-tree-preorder-traversal) |
@@ -86,12 +88,14 @@ Building strong problem-solving skills through consistent practice, pattern reco
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0144-binary-tree-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0111-minimum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
