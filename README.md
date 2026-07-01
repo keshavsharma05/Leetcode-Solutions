@@ -116,4 +116,16 @@ Building strong problem-solving skills through consistent practice, pattern reco
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/1672-richest-customer-wealth) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0070-climbing-stairs) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
