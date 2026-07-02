@@ -124,6 +124,7 @@ Building strong problem-solving skills through consistent practice, pattern reco
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0509-fibonacci-number) |
 ## Memoization
@@ -135,4 +136,12 @@ Building strong problem-solving skills through consistent practice, pattern reco
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0509-fibonacci-number) |
+## String
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
