@@ -11,7 +11,6 @@ public:
             }
             if(count%2==0){
                 even++;
-                cout<<even<<endl;
             }
         }
         return even;
