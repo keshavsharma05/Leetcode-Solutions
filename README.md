@@ -101,6 +101,7 @@ Building strong problem-solving skills through consistent practice, pattern reco
 ## Array
 |  |
 | ------- |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/1920-build-array-from-permutation) |
@@ -121,6 +122,7 @@ Building strong problem-solving skills through consistent practice, pattern reco
 | ------- |
 | [0070-climbing-stairs](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0509-fibonacci-number) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
