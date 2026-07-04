@@ -9,6 +9,7 @@ public:
             else if(nums[slow]<nums[fast]){
                 slow++;
                 nums[slow]=nums[fast];
+                fast++;
                 uniqueCount++;
             }
         }
