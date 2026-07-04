@@ -101,6 +101,7 @@ Building strong problem-solving skills through consistent practice, pattern reco
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/1672-richest-customer-wealth) |
@@ -154,4 +155,8 @@ Building strong problem-solving skills through consistent practice, pattern reco
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0022-generate-parentheses) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
