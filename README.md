@@ -111,6 +111,7 @@ Building strong problem-solving skills through consistent practice, pattern reco
 | [1920-build-array-from-permutation](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Simulation
 |  |
 | ------- |
@@ -155,6 +156,7 @@ Building strong problem-solving skills through consistent practice, pattern reco
 | [0022-generate-parentheses](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0022-generate-parentheses) |
 | [0412-fizz-buzz](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0412-fizz-buzz) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Backtracking
 |  |
 | ------- |
