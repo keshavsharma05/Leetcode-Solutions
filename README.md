@@ -104,6 +104,7 @@ Building strong problem-solving skills through consistent practice, pattern reco
 | [0026-remove-duplicates-from-sorted-array](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0485-max-consecutive-ones) |
+| [0643-maximum-average-subarray-i](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0724-find-pivot-index) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1470-shuffle-the-array](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/1470-shuffle-the-array) |
@@ -171,4 +172,8 @@ Building strong problem-solving skills through consistent practice, pattern reco
 | [0125-valid-palindrome](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0344-reverse-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
