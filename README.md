@@ -106,6 +106,7 @@ Building strong problem-solving skills through consistent practice, pattern reco
 | [0485-max-consecutive-ones](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0724-find-pivot-index) |
+| [0904-fruit-into-baskets](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0904-fruit-into-baskets) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1470-shuffle-the-array](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/1480-running-sum-of-1d-array) |
@@ -179,9 +180,11 @@ Building strong problem-solving skills through consistent practice, pattern reco
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0904-fruit-into-baskets) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Hash Table
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0904-fruit-into-baskets](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0904-fruit-into-baskets) |
 <!---LeetCode Topics End-->
