@@ -102,6 +102,7 @@ Building strong problem-solving skills through consistent practice, pattern reco
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0066-plus-one](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0066-plus-one) |
 | [0283-move-zeroes](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0303-range-sum-query-immutable) |
 | [0485-max-consecutive-ones](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0485-max-consecutive-ones) |
@@ -136,6 +137,7 @@ Building strong problem-solving skills through consistent practice, pattern reco
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0070-climbing-stairs) |
 | [0412-fizz-buzz](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0509-fibonacci-number) |
