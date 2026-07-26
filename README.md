@@ -106,6 +106,7 @@ Building strong problem-solving skills through consistent practice, pattern reco
 | [0283-move-zeroes](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0303-range-sum-query-immutable) |
 | [0485-max-consecutive-ones](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0904-fruit-into-baskets) |
@@ -128,6 +129,7 @@ Building strong problem-solving skills through consistent practice, pattern reco
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0303-range-sum-query-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/1480-running-sum-of-1d-array) |
 ## Matrix
@@ -196,6 +198,7 @@ Building strong problem-solving skills through consistent practice, pattern reco
 | [0003-longest-substring-without-repeating-characters](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0424-longest-repeating-character-replacement) |
+| [0560-subarray-sum-equals-k](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0904-fruit-into-baskets) |
 ## Design
 |  |
