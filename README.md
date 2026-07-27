@@ -158,6 +158,7 @@ Building strong problem-solving skills through consistent practice, pattern reco
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0509-fibonacci-number) |
 ## String
 |  |
@@ -204,4 +205,8 @@ Building strong problem-solving skills through consistent practice, pattern reco
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0303-range-sum-query-immutable) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
