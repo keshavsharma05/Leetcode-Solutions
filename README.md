@@ -169,6 +169,7 @@ Building strong problem-solving skills through consistent practice, pattern reco
 | [0022-generate-parentheses](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0424-longest-repeating-character-replacement) |
@@ -200,6 +201,7 @@ Building strong problem-solving skills through consistent practice, pattern reco
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0076-minimum-window-substring) |
+| [0242-valid-anagram](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0560-subarray-sum-equals-k) |
@@ -223,5 +225,6 @@ Building strong problem-solving skills through consistent practice, pattern reco
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
