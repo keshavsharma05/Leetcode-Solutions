@@ -103,6 +103,7 @@ Building strong problem-solving skills through consistent practice, pattern reco
 | ------- |
 | [0001-two-sum](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0283-move-zeroes) |
@@ -219,6 +220,7 @@ Building strong problem-solving skills through consistent practice, pattern reco
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
