@@ -114,6 +114,7 @@ Building strong problem-solving skills through consistent practice, pattern reco
 | [0560-subarray-sum-equals-k](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0724-find-pivot-index) |
+| [0875-koko-eating-bananas](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0904-fruit-into-baskets) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1470-shuffle-the-array](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/1470-shuffle-the-array) |
@@ -226,6 +227,7 @@ Building strong problem-solving skills through consistent practice, pattern reco
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0268-missing-number) |
+| [0875-koko-eating-bananas](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0875-koko-eating-bananas) |
 ## Bit Manipulation
 |  |
 | ------- |
