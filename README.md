@@ -66,6 +66,7 @@ Building strong problem-solving skills through consistent practice, pattern reco
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0144-binary-tree-preorder-traversal) |
 ## Tree
@@ -171,6 +172,7 @@ Building strong problem-solving skills through consistent practice, pattern reco
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0125-valid-palindrome) |
