@@ -69,6 +69,7 @@ Building strong problem-solving skills through consistent practice, pattern reco
 | [0020-valid-parentheses](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0144-binary-tree-preorder-traversal) |
+| [0496-next-greater-element-i](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0496-next-greater-element-i) |
 ## Tree
 |  |
 | ------- |
@@ -112,6 +113,7 @@ Building strong problem-solving skills through consistent practice, pattern reco
 | [0283-move-zeroes](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0303-range-sum-query-immutable) |
 | [0485-max-consecutive-ones](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0724-find-pivot-index) |
@@ -212,6 +214,7 @@ Building strong problem-solving skills through consistent practice, pattern reco
 | [0242-valid-anagram](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0424-longest-repeating-character-replacement) |
+| [0496-next-greater-element-i](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0904-fruit-into-baskets) |
 ## Design
@@ -239,4 +242,8 @@ Building strong problem-solving skills through consistent practice, pattern reco
 | ------- |
 | [0242-valid-anagram](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0268-missing-number) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
