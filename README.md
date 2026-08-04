@@ -149,6 +149,7 @@ Building strong problem-solving skills through consistent practice, pattern reco
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0268-missing-number) |
@@ -175,6 +176,7 @@ Building strong problem-solving skills through consistent practice, pattern reco
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0076-minimum-window-substring) |
@@ -211,6 +213,7 @@ Building strong problem-solving skills through consistent practice, pattern reco
 | ------- |
 | [0001-two-sum](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0013-roman-to-integer) |
 | [0076-minimum-window-substring](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0268-missing-number) |
