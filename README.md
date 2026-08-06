@@ -199,6 +199,7 @@ Building strong problem-solving skills through consistent practice, pattern reco
 | [0125-valid-palindrome](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0344-reverse-string) |
+| [0876-middle-of-the-linked-list](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0876-middle-of-the-linked-list) |
 ## Sliding Window
 |  |
 | ------- |
@@ -229,6 +230,7 @@ Building strong problem-solving skills through consistent practice, pattern reco
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0876-middle-of-the-linked-list) |
 ## Binary Search
 |  |
 | ------- |
