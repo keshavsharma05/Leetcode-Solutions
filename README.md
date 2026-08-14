@@ -82,6 +82,7 @@ Building strong problem-solving skills through consistent practice, pattern reco
 | [0112-path-sum](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0226-invert-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -103,6 +104,7 @@ Building strong problem-solving skills through consistent practice, pattern reco
 | [0112-path-sum](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0226-invert-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0700-search-in-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -283,4 +285,8 @@ Building strong problem-solving skills through consistent practice, pattern reco
 | ------- |
 | [0141-linked-list-cycle](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0142-linked-list-cycle-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
