@@ -84,6 +84,7 @@ Building strong problem-solving skills through consistent practice, pattern reco
 | [0112-path-sum](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Depth-First Search
@@ -98,6 +99,7 @@ Building strong problem-solving skills through consistent practice, pattern reco
 | [0112-path-sum](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -111,6 +113,7 @@ Building strong problem-solving skills through consistent practice, pattern reco
 | [0112-path-sum](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Breadth-First Search
@@ -299,4 +302,12 @@ Building strong problem-solving skills through consistent practice, pattern reco
 | [0098-validate-binary-search-tree](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0098-validate-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0701-insert-into-a-binary-search-tree) |
+## Binary Lifting
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
