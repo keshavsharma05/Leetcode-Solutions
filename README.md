@@ -87,6 +87,7 @@ Building strong problem-solving skills through consistent practice, pattern reco
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -116,6 +117,7 @@ Building strong problem-solving skills through consistent practice, pattern reco
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -261,6 +263,7 @@ Building strong problem-solving skills through consistent practice, pattern reco
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0303-range-sum-query-immutable) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Linked List
 |  |
 | ------- |
@@ -304,6 +307,7 @@ Building strong problem-solving skills through consistent practice, pattern reco
 | [0098-validate-binary-search-tree](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0098-validate-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -320,8 +324,13 @@ Building strong problem-solving skills through consistent practice, pattern reco
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0215-kth-largest-element-in-an-array) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0215-kth-largest-element-in-an-array) |
+## Data Stream
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0703-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
