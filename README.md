@@ -135,6 +135,7 @@ Building strong problem-solving skills through consistent practice, pattern reco
 | [0033-search-in-rotated-sorted-array](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0035-search-insert-position) |
+| [0056-merge-intervals](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0066-plus-one) |
 | [0215-kth-largest-element-in-an-array](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0268-missing-number) |
@@ -290,6 +291,7 @@ Building strong problem-solving skills through consistent practice, pattern reco
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0268-missing-number) |
@@ -347,4 +349,8 @@ Building strong problem-solving skills through consistent practice, pattern reco
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0973-k-closest-points-to-origin) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
