@@ -135,6 +135,7 @@ Building strong problem-solving skills through consistent practice, pattern reco
 | [0033-search-in-rotated-sorted-array](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0035-search-insert-position) |
+| [0055-jump-game](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0066-plus-one) |
@@ -194,6 +195,7 @@ Building strong problem-solving skills through consistent practice, pattern reco
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0022-generate-parentheses) |
+| [0055-jump-game](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0509-fibonacci-number) |
 ## Memoization
@@ -361,5 +363,6 @@ Building strong problem-solving skills through consistent practice, pattern reco
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
