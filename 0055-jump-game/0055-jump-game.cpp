@@ -9,7 +9,6 @@ public:
             farthest=max(farthest,i+nums[i]);
         }
         if(farthest>=n){
-            cout<<n;
             return true;
         }
         return false;
