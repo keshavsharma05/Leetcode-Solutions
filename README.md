@@ -142,6 +142,7 @@ Building strong problem-solving skills through consistent practice, pattern reco
 | [0268-missing-number](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0303-range-sum-query-immutable) |
+| [0455-assign-cookies](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0560-subarray-sum-equals-k) |
@@ -237,6 +238,7 @@ Building strong problem-solving skills through consistent practice, pattern reco
 | [0234-palindrome-linked-list](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0344-reverse-string) |
+| [0455-assign-cookies](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0977-squares-of-a-sorted-array) |
 ## Sliding Window
@@ -296,6 +298,7 @@ Building strong problem-solving skills through consistent practice, pattern reco
 | [0215-kth-largest-element-in-an-array](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0268-missing-number) |
+| [0455-assign-cookies](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0455-assign-cookies) |
 | [0973-k-closest-points-to-origin](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0977-squares-of-a-sorted-array) |
 ## Monotonic Stack
@@ -354,4 +357,9 @@ Building strong problem-solving skills through consistent practice, pattern reco
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0056-merge-intervals) |
+| [0455-assign-cookies](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0455-assign-cookies) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
