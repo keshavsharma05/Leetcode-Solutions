@@ -150,6 +150,7 @@ Building strong problem-solving skills through consistent practice, pattern reco
 | [0643-maximum-average-subarray-i](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0724-find-pivot-index) |
 | [0875-koko-eating-bananas](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0875-koko-eating-bananas) |
+| [0881-boats-to-save-people](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0904-fruit-into-baskets) |
 | [0973-k-closest-points-to-origin](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0977-squares-of-a-sorted-array) |
@@ -242,6 +243,7 @@ Building strong problem-solving skills through consistent practice, pattern reco
 | [0344-reverse-string](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0876-middle-of-the-linked-list) |
+| [0881-boats-to-save-people](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0977-squares-of-a-sorted-array) |
 ## Sliding Window
 |  |
@@ -301,6 +303,7 @@ Building strong problem-solving skills through consistent practice, pattern reco
 | [0242-valid-anagram](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0455-assign-cookies) |
+| [0881-boats-to-save-people](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0881-boats-to-save-people) |
 | [0973-k-closest-points-to-origin](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0977-squares-of-a-sorted-array) |
 ## Monotonic Stack
@@ -365,4 +368,9 @@ Building strong problem-solving skills through consistent practice, pattern reco
 | ------- |
 | [0055-jump-game](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0455-assign-cookies) |
+| [0881-boats-to-save-people](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0881-boats-to-save-people) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
