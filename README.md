@@ -139,6 +139,7 @@ Building strong problem-solving skills through consistent practice, pattern reco
 | [0056-merge-intervals](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0078-subsets) |
 | [0215-kth-largest-element-in-an-array](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0283-move-zeroes) |
@@ -231,6 +232,7 @@ Building strong problem-solving skills through consistent practice, pattern reco
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0078-subsets) |
 ## Two Pointers
 |  |
 | ------- |
@@ -294,6 +296,7 @@ Building strong problem-solving skills through consistent practice, pattern reco
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0268-missing-number) |
 ## Sorting
 |  |
