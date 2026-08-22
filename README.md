@@ -232,6 +232,7 @@ Building strong problem-solving skills through consistent practice, pattern reco
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0022-generate-parentheses) |
+| [0077-combinations](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0078-subsets) |
 ## Two Pointers
 |  |
