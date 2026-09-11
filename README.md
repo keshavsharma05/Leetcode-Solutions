@@ -139,6 +139,7 @@ Building strong problem-solving skills through consistent practice, pattern reco
 | [0056-merge-intervals](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0078-subsets) |
 | [0215-kth-largest-element-in-an-array](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0268-missing-number) |
@@ -180,6 +181,7 @@ Building strong problem-solving skills through consistent practice, pattern reco
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0073-set-matrix-zeroes) |
 | [1672-richest-customer-wealth](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/1672-richest-customer-wealth) |
 ## Math
 |  |
@@ -263,6 +265,7 @@ Building strong problem-solving skills through consistent practice, pattern reco
 | [0001-two-sum](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0142-linked-list-cycle-ii) |
