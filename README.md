@@ -141,6 +141,7 @@ Building strong problem-solving skills through consistent practice, pattern reco
 | [0066-plus-one](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0078-subsets) |
+| [0118-pascals-triangle](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0118-pascals-triangle) |
 | [0215-kth-largest-element-in-an-array](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0283-move-zeroes) |
@@ -201,6 +202,7 @@ Building strong problem-solving skills through consistent practice, pattern reco
 | [0022-generate-parentheses](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0118-pascals-triangle) |
 | [0509-fibonacci-number](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
