@@ -132,6 +132,7 @@ Building strong problem-solving skills through consistent practice, pattern reco
 | ------- |
 | [0001-two-sum](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0035-search-insert-position) |
@@ -242,6 +243,7 @@ Building strong problem-solving skills through consistent practice, pattern reco
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0142-linked-list-cycle-ii) |
