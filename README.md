@@ -144,6 +144,7 @@ Building strong problem-solving skills through consistent practice, pattern reco
 | [0078-subsets](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0118-pascals-triangle) |
 | [0215-kth-largest-element-in-an-array](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0303-range-sum-query-immutable) |
@@ -273,6 +274,7 @@ Building strong problem-solving skills through consistent practice, pattern reco
 | [0076-minimum-window-substring](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0142-linked-list-cycle-ii) |
+| [0217-contains-duplicate](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0424-longest-repeating-character-replacement) |
@@ -311,6 +313,7 @@ Building strong problem-solving skills through consistent practice, pattern reco
 | ------- |
 | [0056-merge-intervals](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/keshavsharma05/Data-Structures-and-Algorithms-Leetcode-/tree/master/0455-assign-cookies) |
